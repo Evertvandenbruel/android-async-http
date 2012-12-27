@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.http.auth.NTCredentials"/>
+<fullyQualifiedTypeName name="android.net.Credentials"/>
+<fullyQualifiedTypeName name="org.apache.http.auth.AuthScope"/>
+<fullyQualifiedTypeName name="net.maxters.android.ntlm.NTLM"/>
+</qualifiedTypeNameHistroy>
